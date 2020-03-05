@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "4f2a697c-9498-4354-839e-830d33d142bc",
+            "Value": {
+                "id": "898a9997-74a9-4fa5-9567-71d02c22daab",
+                "resourcePath": "tilesets\\ts_grass\\ts_grass.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "66acd5fd-a70b-4f05-a55e-e8b49017f179",
             "Value": {
                 "id": "7b8d8ea9-365e-429b-a470-74446730a47e",
